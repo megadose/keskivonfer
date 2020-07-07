@@ -18,8 +18,8 @@ cd keskivonfer/
 python3 setup.py install
 ```
 ## 📚 Example
--u is the username
--v is the extension of the website .fr , .com, by default is .com
+ - -u is the username
+ - -v is the extension of the website .fr , .com, by default is .com
 ```bash
 python3 Keskivonfer.py -u 12345678-monaccount -v fr
 ```
