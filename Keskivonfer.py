@@ -20,7 +20,7 @@ print("Followers : "+str(infos["followers_count"])+" | Following : "+str(infos["
 print("Created at : "+str(infos["created_at"]))
 print("Last loged on : "+str(infos["last_loged_on_ts"]))
 print("City : "+str(infos["city"]) + " | Country : "+str(infos["country_title"]))
-if infos["photo"]!=None:
+if infos["photo"]["url"]!=None:
     print("Profile pictue : "+str(infos["photo"]["url"]))
 else :
     print("Profile pictue : "+str(infos["photo"]))
