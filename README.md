@@ -24,7 +24,7 @@ python3 setup.py install
 python3 Keskivonfer.py -u 12345678-monaccount -v fr
 ```
 ## 📈 Usage
-The second argument is the extension of the site by deffault is .com
+The second argument is the extension of the site by default is .com
 ```python
 from keskivonfer import *
 print(getInfo("12345678-monaccount","be"))
