@@ -5,7 +5,7 @@ Keskivonfer is a tool that allows you to extract information from a vinted accou
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ### Demo
-![](demo.gif)
+![](https://github.com/megadose/gif-demo/raw/master/demo-keskivonfer.gif)
 ## 💡 Prerequisite
    [Python 2/3](https://www.python.org/downloads/release/python-370/)
 ## 🛠️ Installation
