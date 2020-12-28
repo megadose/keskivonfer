@@ -1,6 +1,7 @@
 # Keskivonfer
-<a href="https://www.buymeacoffee.com/megadose" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-# Educational purposes only
+![PyPI](https://img.shields.io/pypi/v/keskivonfer) ![PyPI - Week](https://img.shields.io/pypi/dw/keskivonfer) ![PyPI - Downloads](https://static.pepy.tech/badge/keskivonfer) ![PyPI - License](https://img.shields.io/pypi/l/keskivonfer)
+#### For BTC Donations : 1FHDM49QfZX6pJmhjLE5tB2K6CaTLMZpXZ
+## Educational purposes only
 ### If you have any suggestions, please do not hesitate to contact us. 
 Keskivonfer is a tool that allows you to extract information from a vinted account
 
