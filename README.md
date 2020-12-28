@@ -2,7 +2,6 @@
 ![PyPI](https://img.shields.io/pypi/v/keskivonfer) ![PyPI - Week](https://img.shields.io/pypi/dw/keskivonfer) ![PyPI - Downloads](https://static.pepy.tech/badge/keskivonfer) ![PyPI - License](https://img.shields.io/pypi/l/keskivonfer)
 #### For BTC Donations : 1FHDM49QfZX6pJmhjLE5tB2K6CaTLMZpXZ
 ## Educational purposes only
-### If you have any suggestions, please do not hesitate to contact us. 
 Keskivonfer is a tool that allows you to extract information from a vinted account
 
 ### Demo
