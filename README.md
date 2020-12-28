@@ -5,7 +5,6 @@
 ### If you have any suggestions, please do not hesitate to contact us. 
 Keskivonfer is a tool that allows you to extract information from a vinted account
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ### Demo
 ![](https://github.com/megadose/gif-demo/raw/master/demo-keskivonfer.gif)
 ## 💡 Prerequisite
