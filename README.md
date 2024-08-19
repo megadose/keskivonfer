@@ -27,10 +27,12 @@ python3 Keskivonfer.py -u 12345678-monaccount -v fr
 The second argument is the extension of the site by default is .com
 ```python
 from keskivonfer import *
-print(getInfo("12345678-monaccount","be"))
+print(Requester().get_information("12345678-monaccount","be"))
 ```
 
 ## Thank you to :
 - [ L003 ](https://twitter.com/L003_0S1N7)
+- [Vinted-Api-wrapper](https://github.com/herissondev/vinted-api-wrapper) Authentication fix using cookie post mechanism
+
 ## 📝 License
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.fr.html)
