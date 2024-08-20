@@ -6,7 +6,7 @@ setup(
     version="1.01",
     packages=find_packages(),
     author="megadose",
-    install_requires=["argparse","fake_useragent"],
+    install_requires=["argparse","fake_useragent","requests"],
     description="Keskivonfer is a tool that allows you to extract information from a vinted account",
     long_description="",
     include_package_data=True,
